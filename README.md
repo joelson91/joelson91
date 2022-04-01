@@ -1,5 +1,5 @@
 - 👋 Hi, I’m <strong>Joelson</strong>;
-- 👀 I’m interested in front-end and mobile development;
+- 👀 I’m interested in front-end, mobile development and UX Design;
 - 🌱 I’m currently learning front-end development (html, css and javascript);
 - 💞️ I’m looking to help companies and people to develop their businesses;
 
