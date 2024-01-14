@@ -2,7 +2,7 @@
 
 # Olá, eu sou o Joelson 👋
 
-Sou um desenvolvedor web front-end apaixonado por criar soluções inovadoras e atraentes para a web. Tenho experiência em UX/UI Design e domínio das tecnologias HTML, CSS, JavaScript e Git.
+Sou um analista de dados apaixonado por extrair insights de grandes conjuntos de dados. Tenho experiência em Python, SQL, Power BI, e outras ferramentas de análise.
 
 ## Habilidades
 
@@ -21,7 +21,7 @@ Sou um desenvolvedor web front-end apaixonado por criar soluções inovadoras e 
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 
 ## Projetos
-Aqui estão alguns dos projetos que eu desenvolvi:
+Neste repositório, você vai encontrar os meus projetos pessoais e profissionais relacionados à análise de dados. Alguns exemplos são:
 
 - [SIGAA UFPA 2.0](https://sigaaufpa2.netlify.app/) Uma versão repaginada do sistema da universidade para gestão de atividades acadêmicas.
 - [Okable](https://okable.netlify.app/) Uma landding page para divulgação de uma página do Instagram de plantas.
@@ -34,6 +34,8 @@ Aqui estão alguns dos projetos que eu desenvolvi:
   <a href="mailto:joelsonandradep@outlook.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
 </div>
 
-<p align="center">Obrigado por visitar o meu perfil! 😊</p>
+---
+
+Espero que você goste do meu trabalho e fique à vontade para entrar em contato comigo se tiver alguma dúvida ou sugestão. Obrigado pela visita! 😊
 
 
