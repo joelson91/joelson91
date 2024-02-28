@@ -1,5 +1,3 @@
-<img width="100%" src="https://media.licdn.com/dms/image/D4E16AQGLazZ5E1HijQ/profile-displaybackgroundimage-shrink_350_1400/0/1689894295158?e=1710979200&v=beta&t=JYmy9AlsVsxzOWs78wxN6_0LCFnY6Kd4TSsSgapACVg">
-
 # Olá, eu sou o Joelson 👋
 
 Sou um analista de dados apaixonado por extrair insights de grandes conjuntos de dados. Tenho experiência em Python, SQL, Power BI, e outras ferramentas de análise.
