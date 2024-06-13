@@ -1,6 +1,6 @@
-# Hello, I am Joelson 👋
+# Hello, I'm Joelson 👋
 
-I am a data analyst passionate about extracting insights from large datasets. I have experience in Python, SQL, Power BI, and other analysis tools.
+I'm a data analyst passionate about extracting insights from large datasets. I have experience in Python, SQL, Power BI, and other analysis tools.
 
 ## Skills
 
