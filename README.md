@@ -24,13 +24,6 @@ I’m a web developer passionate about building robust and efficient solutions u
 - **Version Control:** Git, GitHub  
 - **Deployment:** Docker
 
- 
-
-## 🌱 Currently Learning
-- Vue.js for modern frontend
-
-
-
 ## 📫 How to Reach Me
 
 <div>
