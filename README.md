@@ -9,7 +9,7 @@
 
 ### 🚀 Python Web Developer
 
-Welcome to my GitHub profile! I’m a web developer passionate about building robust and efficient solutions using Python and Django, with strong expertise in core web technologies.  
+I’m a web developer passionate about building robust and efficient solutions using Python and Django, with strong expertise in core web technologies.  
 
 ## 💻 Skills  
 
